@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-<style>
+<!-- <style>
 body {
     font-size: 16px; /* 设置默认字体大小为16px */
 }
-</style>
+</style> -->
 
 # About Me
 
