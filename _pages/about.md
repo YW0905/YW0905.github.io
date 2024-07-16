@@ -8,7 +8,7 @@ redirect_from:
 ---
 # About Me
 
-I am currently a graduate student at ![Cornell University](logo-cornell.png), pursuing a Master of Engineering in Financial Engineering.
+I am currently a graduate student at <img src="logo-cornell.png" style="height:1em;">, pursuing a Master of Engineering in Financial Engineering.
 
 I am seeking a summer 2025 internship in quantitative research, quantitative trading, or quantitative risk analysis.
 
