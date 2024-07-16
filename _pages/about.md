@@ -6,6 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# About Me
+
 I am a graduate student at Cornell University now in Ithaca, NY, persuing the Master of Engineering in Financial Engineering.
 
 I am now looking for a 2025 summer intern position in terms of quantitative research, quantitative trader and quantitaitive risk analyst.
