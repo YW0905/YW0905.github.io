@@ -7,13 +7,13 @@ main:
     url: /#-news
 
   - title: "Education"
-    url: /#-Education
+    url: /#-education
 
   - title: "Internships"
-    url: /#-Internships 
+    url: /#-internships 
 
   - title: "Honors and Awards"
-    url: /#-Honors-and-Awards
+    url: /#-honors-and-awards
     
   # - title: "Portfolio"
   #   url: /portfolio/
