@@ -8,16 +8,16 @@ redirect_from:
 ---
 # About Me
 
-I am currently a graduate student at <img src="/images/logo-cornell.png" alt="示例图片" title="这是标题" style="height:1em; vertical-align:middle;">, pursuing a M.Eng. in Financial Engineering.
+I am currently a graduate student at <img src="/images/logo-cornell.png" alt="示例图片" title="这是标题" style="height:1em; vertical-align:middle;">, pursuing a M.Eng. in Financial Engineering, and I expect to graduate in December 2025.
 
-I am seeking a summer 2025 internship in quantitative research, quantitative trading, or quantitative risk analysis.
+I am now seeking a summer 2025 internship in **quantitative research**, **quantitative trading**, or **quantitative risk analysis**.
 
 I hold a bachelor’s degree in Mathematical Economics from the Shanghai University of Finance and Economics. My academic background is strongly rooted in data science, econometrics, and machine learning.
 
 Recently, I served as a Quantitative Research Intern at LianHai Capital Asset Management, LLC, where I leveraged my expertise in statistical analysis and reinforcement learning to drive key projects. I also have experience as a Global Alpha Researcher at Trexquant Investment LP and as an Econometrics Research Assistant at my alma mater, where I contributed to a project commissioned by the Shanghai Bureau of Statistics.
 
-A data-driven personal website
-==============================
+🔥News
+======
 
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
