@@ -6,7 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a graduate student at Cornell University now in Ithaca, NY, persuing the Master of Engineering in Financial Engineering.
+
+I am now looking for a 2025 summer intern position in terms of quantitative research, quantitative trader and quantitaitive risk analyst.
+
+I graduated from Shanghai University of Finance and Economics with a bachlor's degree in Mathematical Economics.
+
+With a strong foundation in data science,  econometrics and machine learning from Shanghai University of Finance  and Economics, I recently completed a stint as a Quantitative Research  Intern at LianHai Capital Asset Management, LLC, where my proficiency in  statistical analysis and reinforcement learning played a pivotal role  in our projects. Previous experiences include a Global Alpha Researcher  role at Trexquant Investment LP and an Econometrics Research Assistant  at my alma mater, contributing to a project appointed by the Shanghai  Bureau of Statistics. My academic pursuits are ongoing at Cornell  University, where I am expanding my expertise in financial engineering,  supported by a track record of excellence demonstrated by national  honors in mathematical competitions. Our team's commitment to leveraging  big data and advanced analytics continues to shape a future in  quantitative finance.
 
 A data-driven personal website
 ==============================
