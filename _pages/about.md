@@ -8,13 +8,13 @@ redirect_from:
 ---
 # About Me
 
-I am a graduate student at Cornell University now in Ithaca, NY, persuing the Master of Engineering in Financial Engineering.
+I am currently a graduate student at ![Cornell University](logo-cornell.png), pursuing a Master of Engineering in Financial Engineering.
 
-I am now looking for a 2025 summer intern position in terms of quantitative research, quantitative trader and quantitaitive risk analyst.
+I am seeking a summer 2025 internship in quantitative research, quantitative trading, or quantitative risk analysis.
 
-I graduated from Shanghai University of Finance and Economics with a bachlor's degree in Mathematical Economics.
+I hold a bachelor’s degree in Mathematical Economics from the Shanghai University of Finance and Economics. My academic background is strongly rooted in data science, econometrics, and machine learning.
 
-With a strong foundation in data science,  econometrics and machine learning from Shanghai University of Finance  and Economics, I recently completed a stint as a Quantitative Research  Intern at LianHai Capital Asset Management, LLC, where my proficiency in  statistical analysis and reinforcement learning played a pivotal role  in our projects. Previous experiences include a Global Alpha Researcher  role at Trexquant Investment LP and an Econometrics Research Assistant  at my alma mater, contributing to a project appointed by the Shanghai  Bureau of Statistics. My academic pursuits are ongoing at Cornell  University, where I am expanding my expertise in financial engineering,  supported by a track record of excellence demonstrated by national  honors in mathematical competitions. Our team's commitment to leveraging  big data and advanced analytics continues to shape a future in  quantitative finance.
+Recently, I served as a Quantitative Research Intern at LianHai Capital Asset Management, LLC, where I leveraged my expertise in statistical analysis and reinforcement learning to drive key projects. I also have experience as a Global Alpha Researcher at Trexquant Investment LP and as an Econometrics Research Assistant at my alma mater, where I contributed to a project commissioned by the Shanghai Bureau of Statistics.
 
 A data-driven personal website
 ==============================
