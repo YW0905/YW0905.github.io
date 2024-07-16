@@ -11,24 +11,6 @@ redirect_from:
 body {
     font-size: 16px; /* 设置默认字体大小为16px */
 }
-h1 {
-    font-size: 30px; /* 设置一级标题字体大小 */
-}
-h2 {
-    font-size: 26px; /* 设置二级标题字体大小 */
-}
-h3 {
-    font-size: 24px; /* 设置三级标题字体大小 */
-}
-h4 {
-    font-size: 20px; /* 设置四级标题字体大小 */
-}
-h5 {
-    font-size: 18px; /* 设置五级标题字体大小 */
-}
-h6 {
-    font-size: 16px; /* 设置六级标题字体大小 */
-}
 </style>
 
 # About Me
