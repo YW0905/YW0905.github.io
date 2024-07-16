@@ -15,7 +15,7 @@ body {
 
 # About Me
 
-I am currently a graduate student at <img src="/images/logo-cornell.png" alt="示例图片" title="这是标题" style="height:1em; vertical-align:middle;">, pursuing a M.Eng. in Financial Engineering, and I expect to graduate in December 2025.
+I am currently a graduate student at [<img src="/images/logo-cornell.png" style="height:1em; vertical-align:middle;">](https://www.cornell.edu/), pursuing a M.Eng. in Financial Engineering, and I expect to graduate in December 2025.
 
 I am now seeking a summer 2025 internship in **quantitative research**, **quantitative trading**, or **quantitative risk analysis**.
 
