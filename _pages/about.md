@@ -23,9 +23,9 @@ Recently, I served as a Quantitative Research Intern at LianHai Capital Asset Ma
 
 # 📖 Educations
 
-* *2024.08 - 2025.12*, M.Eng. in Financial Engineering, [<img src="/images/logo-cornell.png" style="height:1em; vertical-align:middle;">](https://www.cornell.edu/), Ithaca, NY, USA
-* *2020.09 - 2024.06*, B.Ec. in Mathematical Economics, [<img src="/images/SUFE.png" style="height:1em; vertical-align:middle;">](https://www.sufe.edu.cn/) <span style="color: rgb(144, 39, 40);">Shanghai University of Finance and Economics</span>, Shanghai, China
-* *2017.09 - 2020.06*, Wuhan No.2 High School, Wuhan, Hubei, China
+* *2024.08 - 2025.12*, M.Eng. in Financial Engineering, [<img src="/images/logo-cornell.png" style="height:1em; vertical-align:middle;">](https://www.cornell.edu/), Ithaca, NY, US
+* *2020.09 - 2024.06*, B.Ec. in Mathematical Economics, [<img src="/images/SUFE.png" style="height:1em; vertical-align:middle;">](https://www.sufe.edu.cn/) <span style="color: rgb(144, 39, 40);">Shanghai University of Finance and Economics</span>, Shanghai, CN
+* *2017.09 - 2020.06*, Wuhan No.2 High School, Wuhan, CN
 
 # 💼 Internships
 
@@ -37,8 +37,8 @@ Recently, I served as a Quantitative Research Intern at LianHai Capital Asset Ma
 
 # 👥 Projects
 
-* *2023.08 - 2023.10*, Econometrics Research Assistant @ [<img src="/images/SUFE.png" style="height:1em; vertical-align:middle;">](https://www.sufe.edu.cn/) <span style="color: rgb(144, 39, 40);">Shanghai University of Finance and Economics</span>, "Big Data Algorithms in Government Statistics" appointed by Shanghai Bureau of Statistics
-* *2022.12 - 2023.08*, Research Assistant and First Author @ [<img src="/images/SMU.png" style="height:1em; vertical-align:middle;">](https://www.smu.edu.sg/) <span style="color: rgb(45,67,113);">Singapore Management University</span>, "Reinforcement Learning in Portfolio Management" working with Prof. Liu
+* *2023.08 - 2023.10*, Econometrics Research Assistant @ [<img src="/images/SUFE.png" style="height:1em; vertical-align:middle;">](https://www.sufe.edu.cn/) <span style="color: rgb(144, 39, 40);">Shanghai University of Finance and Economics</span>, "Big Data Algorithms in Government Statistics" appointed by Shanghai Bureau of Statistics, Shanghai, CN
+* *2022.12 - 2023.08*, Research Assistant and First Author @ [<img src="/images/SMU.png" style="height:1em; vertical-align:middle;">](https://www.smu.edu.sg/) <span style="color: rgb(45,67,113);">Singapore Management University</span>, "Reinforcement Learning in Portfolio Management" working with Prof. Liu, SG
 
 # 🏅 Honors and Awards
 
