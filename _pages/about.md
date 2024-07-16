@@ -14,7 +14,9 @@ I am now seeking a summer 2025 internship in **quantitative research**, **quanti
 
 I hold a bachelor’s degree in Mathematical Economics from [<img src="/images/SUFE.png" style="height:1em; vertical-align:middle;">](https://www.sufe.edu.cn/) <span style="color: rgb(144, 39, 40);">Shanghai University of Finance and Economics</span>. My academic background is strongly rooted in data science, econometrics, and machine learning.
 
-Recently, I served as a Quantitative Research Intern at LianHai Capital Asset Management, LLC, where I leveraged my expertise in statistical analysis and reinforcement learning to drive key projects. I also have experience as a Global Alpha Researcher at Trexquant Investment LP and as an Econometrics Research Assistant at my alma mater, where I contributed to a project commissioned by the Shanghai Bureau of Statistics.
+My research interest includes quantitaive finance, machine learning in quantitative investment and quantitative investment strategies. I have utilized related methods and models in my past experiences, including internships, research projects and competitions.
+
+Recently, I served as a Quantitative Research Intern at Quantitative Research Intern at [<img src="/images/Lianhai.jpeg" style="height:1em; vertical-align:middle;">](http://www.lianhaifund.com/) <a href="http://www.lianhaifund.com/" style="color: rgb(209,21,30);">LianHai Capital</a>, where I leveraged my expertise in statistical analysis and reinforcement learning to drive key projects. I also have experience as a Global Alpha Researcher at Trexquant Investment LP and as an Econometrics Research Assistant at my alma mater, where I contributed to a project commissioned by the Shanghai Bureau of Statistics.
 
 # 🔥 News
 
