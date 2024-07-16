@@ -9,7 +9,7 @@ redirect_from:
 
 <style>
 body {
-    font-size: 14px; /* 设置默认字体大小为16px */
+    font-size: 16px; /* 设置默认字体大小为16px */
 }
 h1 {
     font-size: 30px; /* 设置一级标题字体大小 */
