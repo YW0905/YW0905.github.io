@@ -6,13 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<!-- <style>
-body {
-    font-size: 14px; /* 设置默认字体大小为16px */
-}
-</style> -->
-
-## About Me
+# About Me
 
 I am currently a graduate student at [<img src="/images/logo-cornell.png" style="height:1em; vertical-align:middle;">](https://www.cornell.edu/), pursuing a M.Eng. in Financial Engineering, and I expect to graduate in December 2025.
 
@@ -22,16 +16,16 @@ I hold a bachelor’s degree in Mathematical Economics from the Shanghai Univers
 
 Recently, I served as a Quantitative Research Intern at LianHai Capital Asset Management, LLC, where I leveraged my expertise in statistical analysis and reinforcement learning to drive key projects. I also have experience as a Global Alpha Researcher at Trexquant Investment LP and as an Econometrics Research Assistant at my alma mater, where I contributed to a project commissioned by the Shanghai Bureau of Statistics.
 
-## 🔥 News
+# 🔥 News
 
 * *2024.06*: 🎉🎓 I completed my studies and graduated from Shanghai University of Finance and Economics.
 * *2024.04*: I join Lianhai Capital as a quantitative research intern.
 
-## 📖 Educations
+# 📖 Educations
 
-* *2024.08 - 2025.12*, M.Eng. in Financial Engineering, Cornell University
-* *2020.09 - 2024.06*, B.Ec. in Mathematical Economics, Shanghai University of Finance of Economics
-* *2017.09 - 2020.06*, Wuhan No.2 High School
+* *2024.08 - 2025.12*, M.Eng. in Financial Engineering, Cornell University, Ithaca, NY, USA
+* *2020.09 - 2024.06*, B.Ec. in Mathematical Economics, Shanghai University of Finance of Economics, Shanghai, China
+* *2017.09 - 2020.06*, Wuhan No.2 High School, Wuhan, Hubei, China
 
 Site-wide configuration
 -----------------------
