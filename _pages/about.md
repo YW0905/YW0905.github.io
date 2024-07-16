@@ -34,3 +34,15 @@ Recently, I served as a Quantitative Research Intern at LianHai Capital Asset Ma
 * *2022.12 - 2023.05*, Quantitative Research Intern @ [Soochow Securities](https://www.dwzq.com.cn/), Shanghai, China
 * *2022.07 - 2022.12*, Analyst Intern @ [Shanghai Alphalio](https://www.alphalio.cn/), Shanghai, China
 * *2022.04 - 2022.07*, Corporate Credit Intern @ [Industrial and Commercial Bank of China](https://www.icbc.com.cn/), Wuhan, Hubei, China
+
+# 🏅 Honors & Awards
+
+* *2024.06* BigQuant AlphaFlash Competition (Rank 1st)
+* *2023.10* WorldQuant Challenge: Gold Level
+* *2023.10* WorldQuant Infinity Champions 007 - Alphathon 2023: Gold Level
+* *2023.04* Mathematical Contest In Modeling (MCM): Outstanding Winner (Top 0.15%)
+* *2022.12* Chinese Mathematics Competitions (CMC): First Prize in Shanghai city (Top 8%)
+* *2022.10* UFA Global Undergraduate Finance Competition: Outstanding Investment Performance
+* *2022.04* China Market Research and Analysis Competition(CRA): National Third Prize (Top 5%)
+* *2021.12* Chinese Mathematics Competitions (CMC): First Prize in Shanghai city (Top 8%)
+* *2012.10* China Undergraduate Mathematical Contest in Modeling (CUMCM): National Second Prize (Top 3%)
