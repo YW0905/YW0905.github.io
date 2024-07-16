@@ -12,7 +12,7 @@ I am currently a graduate student at [<img src="/images/logo-cornell.png" style=
 
 I am now seeking a summer 2025 internship in **quantitative research**, **quantitative trading**, or **quantitative risk analysis**.
 
-I hold a bachelor’s degree in Mathematical Economics from the Shanghai University of Finance and Economics. My academic background is strongly rooted in data science, econometrics, and machine learning.
+I hold a bachelor’s degree in Mathematical Economics from [<img src="/images/SUFE.png" style="height:1em; vertical-align:middle;">](https://www.sufe.edu.cn/) the Shanghai University of Finance and Economics. My academic background is strongly rooted in data science, econometrics, and machine learning.
 
 Recently, I served as a Quantitative Research Intern at LianHai Capital Asset Management, LLC, where I leveraged my expertise in statistical analysis and reinforcement learning to drive key projects. I also have experience as a Global Alpha Researcher at Trexquant Investment LP and as an Econometrics Research Assistant at my alma mater, where I contributed to a project commissioned by the Shanghai Bureau of Statistics.
 
