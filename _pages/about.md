@@ -8,9 +8,7 @@ redirect_from:
 ---
 # About Me
 
-I am currently a graduate student at <img src="/images/logo-cornell2.png" alt="示例图片" title="这是标题" style="height:1em; vertical-align:middle;">, pursuing a Master of Engineering in Financial Engineering.
-
-这是一个行内图片 <img src="/images/logo-cornell.png" alt="示例图片" title="这是标题" style="height:1em; vertical-align:middle;"> 的例子。
+I am currently a graduate student at <img src="/images/logo-cornell.png" alt="示例图片" title="这是标题" style="height:1em; vertical-align:middle;">, pursuing a M.Eng. in Financial Engineering.
 
 I am seeking a summer 2025 internship in quantitative research, quantitative trading, or quantitative risk analysis.
 
