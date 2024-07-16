@@ -76,10 +76,20 @@
    Author profile and links
    ========================================================================== */
 
+.profile_box{
+  @include breakpoint($large) {
+    display: block;
+  }
+  display: flex;
+  justify-content: flex-start;
+  align-content: flex-start;
+  align-items: center;
+}
+
 .author__avatar {
   display: table-cell;
   vertical-align: top;
-  width: 36px;
+  width: 75px;
   // set width only, for non-square avatars
   // height: 36px;
 
@@ -91,6 +101,7 @@
 
   img {
     max-width: 175px;
+    min-width: 75px;
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -103,8 +114,9 @@
 .author__content {
   display: table-cell;
   vertical-align: top;
-  padding-left: 15px;
-  padding-right: 25px;
+  padding-left: 10px;
+  min-width: 120px;
+  // padding-right: 25px;
   line-height: 1;
 
   @include breakpoint($large) {
@@ -124,8 +136,11 @@
   }
 }
 .sidebar .author__name {
+  @include breakpoint($medium) {
+    font-size: $type-size-3;
+  }
   font-family: $sans-serif;
-  font-size: $type-size-5;
+  font-size: $type-size-4;
 }
 
 .sidebar .author__desktop {
@@ -160,6 +175,7 @@
   font-family: $sans-serif;
   z-index: 10;
   position: relative;
+  margin-left: auto;
   cursor: pointer;
 
   li:last-child {
@@ -174,7 +190,8 @@
 
   button {
     margin-bottom: 0;
-
+    width: 120px;
+    padding: 0.5em;
     @include breakpoint($large) {
       display: none;
     }
