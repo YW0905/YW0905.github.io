@@ -25,8 +25,8 @@ author:
   name             : "Yourui Wang"
   pronouns         : # example: "she/her"  
   bio              : "Incoming M.Eng. in Financial Engineering Student @ Cornell University. Looking for 25 summer intern."
-  location         : "Ithaca, NY"
-  employer         : "Cornell University"
+  location         : # "Ithaca, NY"
+  employer         : # "Cornell University"
   uri              : # URL
   email            : "yw2735@cornell.edu" 
 
