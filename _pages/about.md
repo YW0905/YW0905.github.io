@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 <!-- <style>
 body {
     font-size: 16px; /* 设置默认字体大小为16px */
@@ -23,21 +22,18 @@ I hold a bachelor’s degree in Mathematical Economics from the Shanghai Univers
 
 Recently, I served as a Quantitative Research Intern at LianHai Capital Asset Management, LLC, where I leveraged my expertise in statistical analysis and reinforcement learning to drive key projects. I also have experience as a Global Alpha Researcher at Trexquant Investment LP and as an Econometrics Research Assistant at my alma mater, where I contributed to a project commissioned by the Shanghai Bureau of Statistics.
 
-🔥News
-======
+🔥 News
+=======
 
 * *2024.06*: 🎉🎓 I completed my studies and graduated from Shanghai University of Finance and Economics.
 * *2024.04*: I join Lianhai Capital as a quantitative research intern.
 
-Getting started
-===============
+📖 Educations
+=============
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-2. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right.
-3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-6. Check status by going to the repository settings, in the "GitHub pages" section
+* *2024.08 - 2025.12*, M.Eng. in Financial Engineering, Cornell University
+* *2020.09 - 2024.06*, B.Ec. in Mathematical Economics, Shanghai University of Finance of Economics
+* *2017.09 - 2020.06*, Wuhan No.2 High School
 
 Site-wide configuration
 -----------------------
