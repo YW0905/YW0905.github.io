@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yourui Wang"
+title                    : "Yourui Wang - Homepage"
 title_separator          : "-"
 name                     : &name "Yourui Wang"
 description              : &description "personal description"
@@ -22,9 +22,9 @@ repository               : "YW0905/YW0905.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Yourui (Yori) Wang"
+  name             : "Yourui Wang"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Incoming M.Eng. in Financial Engineering Student @ Cornell University. Looking for 25 summer intern."
   location         : "Ithaca, NY"
   employer         : "Cornell University"
   uri              : # URL
