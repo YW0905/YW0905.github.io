@@ -9,13 +9,13 @@ redirect_from:
 
 <style>
 body {
-    font-size: 16px; /* 设置默认字体大小为16px */
+    font-size: 14px; /* 设置默认字体大小为16px */
 }
 h1 {
-    font-size: 32px; /* 设置一级标题字体大小 */
+    font-size: 30px; /* 设置一级标题字体大小 */
 }
 h2 {
-    font-size: 28px; /* 设置二级标题字体大小 */
+    font-size: 26px; /* 设置二级标题字体大小 */
 }
 h3 {
     font-size: 24px; /* 设置三级标题字体大小 */
