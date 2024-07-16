@@ -35,14 +35,14 @@ Recently, I served as a Quantitative Research Intern at LianHai Capital Asset Ma
 * *2022.07 - 2022.12*, Analyst Intern @ [Shanghai Alphalio](https://www.alphalio.cn/), Shanghai, CN
 * *2022.04 - 2022.07*, Corporate Credit Intern @ [Industrial and Commercial Bank of China](https://www.icbc.com.cn/), Wuhan, CN
 
-# 🏅 Honors & Awards
+# 🏅 Honors and Awards
 
-* *2024.06* BigQuant AlphaFlash Competition (Rank 1st)
-* *2023.10* WorldQuant Challenge: Gold Level
-* *2023.10* WorldQuant Infinity Champions 007 - Alphathon 2023: Gold Level
-* *2023.04* Mathematical Contest In Modeling (MCM): Outstanding Winner (Top 0.15%)
-* *2022.12* Chinese Mathematics Competitions (CMC): First Prize in Shanghai city (Top 8%)
+* *2024.06* [BigQuant](https://bigquant.com/) AlphaFlash Competition: Ranked 1st
+* *2023.10* [WorldQuant](https://www.worldquant.com/) Challenge: Gold Level
+* *2023.10* [WorldQuant](https://www.worldquant.com/) Infinity Champions 007 - Alphathon 2023: Gold Level
+* *2023.04* COMAP's Mathematical Contest In Modeling ([MCM](https://www.comap.com/contests/mcm-icm)): Outstanding Winner (Top 0.15%)
+* *2022.12* Chinese Mathematics Competitions ([CMC](http://www.cmathc.cn/)): First Prize in Shanghai city (Top 8%)
 * *2022.10* UFA Global Undergraduate Finance Competition: Outstanding Investment Performance
 * *2022.04* China Market Research and Analysis Competition(CRA): National Third Prize (Top 5%)
-* *2021.12* Chinese Mathematics Competitions (CMC): First Prize in Shanghai city (Top 8%)
-* *2012.10* China Undergraduate Mathematical Contest in Modeling (CUMCM): National Second Prize (Top 3%)
+* *2021.12* Chinese Mathematics Competitions ([CMC](http://www.cmathc.cn/): First Prize in Shanghai city (Top 8%)
+* *2012.10* China Undergraduate Mathematical Contest in Modeling ([CUMCM](http://www.mcm.edu.cn/)): National Second Prize (Top 3%)
