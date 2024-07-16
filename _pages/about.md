@@ -30,7 +30,9 @@ Recently, I served as a Quantitative Research Intern at LianHai Capital Asset Ma
 # 💼 Internships
 
 * *2024.04 - 2024.07*, Quantitative Research Intern @ [<img src="/images/Lianhai.jpeg" style="height:1em; vertical-align:middle;">](http://www.lianhaifund.com/) <a href="http://www.lianhaifund.com/" style="color: rgb(209,21,30);">LianHai Capital</a>, Shanghai, CN
-* *2023.10 - 2024.02*, Global Alpha Researcher @ [Trexquant Investment](https://trexquant.com/), Stamford, CT, US (Remote)
+* *2023.10 - 2024.02*, Global Alpha Researcher @ [<img src="/images/trexquant.jpg" style="height:1em; vertical-align:middle;">](https://trexquant.com/) <a href="https://trexquant.com/" style="color: rgb(0,176,231);">TrexQuant Investment</a>, Stamford, CT, US (Remote)
+
+rgb(0,176,231)
 * *2022.12 - 2023.05*, Quantitative Research Intern @ [Soochow Securities](https://www.dwzq.com.cn/), Shanghai, CN
 * *2022.07 - 2022.12*, Analyst Intern @ [Shanghai Alphalio](https://www.alphalio.cn/), Shanghai, CN
 * *2022.04 - 2022.07*, Corporate Credit Intern @ [Industrial and Commercial Bank of China](https://www.icbc.com.cn/), Wuhan, CN
