@@ -43,6 +43,8 @@ Recently, I served as a Quantitative Research Intern at LianHai Capital Asset Ma
 * *2023.04* COMAP's Mathematical Contest In Modeling ([MCM](https://www.comap.com/contests/mcm-icm)): Outstanding Winner (Top 0.15%)
 * *2022.12* Chinese Mathematics Competitions ([CMC](http://www.cmathc.cn/)): First Prize in Shanghai city (Top 8%)
 * *2022.10* UFA Global Undergraduate Finance Competition: Outstanding Investment Performance
-* *2022.04* China Market Research and Analysis Competition(CRA): National Third Prize (Top 5%)
-* *2021.12* Chinese Mathematics Competitions ([CMC](http://www.cmathc.cn/): First Prize in Shanghai city (Top 8%)
-* *2012.10* China Undergraduate Mathematical Contest in Modeling ([CUMCM](http://www.mcm.edu.cn/)): National Second Prize (Top 3%)
+* 2022.09 First Prize Scholarship, Academic Scholarship and Social Scholarship (1/40)
+* *2022.04* China Market Research and Analysis Competition([CRA](http://www.china-cssc.org/)): National Third Prize (Top 5%)
+* *2021.12* Chinese Mathematics Competitions ([CMC](http://www.cmathc.cn/)): First Prize in Shanghai city (Top 8%)
+* *2021.10* China Undergraduate Mathematical Contest in Modeling ([CUMCM](http://www.mcm.edu.cn/)): National Second Prize (Top 3%)
+* 2021.09 Cultural and Sports Activity Scholarship (1/40)
