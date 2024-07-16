@@ -23,8 +23,8 @@ Recently, I served as a Quantitative Research Intern at LianHai Capital Asset Ma
 
 # 📖 Educations
 
-* *2024.08 - 2025.12*, M.Eng. in Financial Engineering, Cornell University, Ithaca, NY, USA
-* *2020.09 - 2024.06*, B.Ec. in Mathematical Economics, Shanghai University of Finance of Economics, Shanghai, China
+* *2024.08 - 2025.12*, M.Eng. in Financial Engineering, [<img src="/images/logo-cornell.png" style="height:1em; vertical-align:middle;">](https://www.cornell.edu/), Ithaca, NY, USA
+* *2020.09 - 2024.06*, B.Ec. in Mathematical Economics, [<img src="/images/SUFE.png" style="height:1em; vertical-align:middle;">](https://www.sufe.edu.cn/) <span style="color: rgb(144, 39, 40);">Shanghai University of Finance and Economics</span>, Shanghai, China
 * *2017.09 - 2020.06*, Wuhan No.2 High School, Wuhan, Hubei, China
 
 # 💼 Internships
