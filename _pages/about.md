@@ -35,6 +35,11 @@ Recently, I served as a Quantitative Research Intern at LianHai Capital Asset Ma
 * *2022.07 - 2022.12*, Analyst Intern @ [Shanghai Alphalio](https://www.alphalio.cn/), Shanghai, CN
 * *2022.04 - 2022.07*, Corporate Credit Intern @ [Industrial and Commercial Bank of China](https://www.icbc.com.cn/), Wuhan, CN
 
+# 👥 Projects
+
+* *2023.08 - 2023.10*, Econometrics Research Assistant @ [<img src="/images/SUFE.png" style="height:1em; vertical-align:middle;">](https://www.sufe.edu.cn/) <span style="color: rgb(144, 39, 40);">Shanghai University of Finance and Economics</span>, "Big Data Algorithms in Government Statistics" appointed by Shanghai Bureau of Statistics
+* *2022.12 - 2023.08*, Research Assistant and First Author @ [<img src="/images/SMU.png" style="height:1em; vertical-align:middle;">](https://www.smu.edu.sg/)Singapore Management University, "Reinforcement Learning in Portfolio Management" working with Prof. Liu
+
 # 🏅 Honors and Awards
 
 * *2024.06* [BigQuant](https://bigquant.com/) AlphaFlash Competition: Ranked 1st
