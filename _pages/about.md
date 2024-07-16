@@ -6,6 +6,31 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<style>
+body {
+    font-size: 16px; /* 设置默认字体大小为16px */
+}
+h1 {
+    font-size: 32px; /* 设置一级标题字体大小 */
+}
+h2 {
+    font-size: 28px; /* 设置二级标题字体大小 */
+}
+h3 {
+    font-size: 24px; /* 设置三级标题字体大小 */
+}
+h4 {
+    font-size: 20px; /* 设置四级标题字体大小 */
+}
+h5 {
+    font-size: 18px; /* 设置五级标题字体大小 */
+}
+h6 {
+    font-size: 16px; /* 设置六级标题字体大小 */
+}
+</style>
+
 # About Me
 
 I am currently a graduate student at <img src="/images/logo-cornell.png" alt="示例图片" title="这是标题" style="height:1em; vertical-align:middle;">, pursuing a M.Eng. in Financial Engineering, and I expect to graduate in December 2025.
