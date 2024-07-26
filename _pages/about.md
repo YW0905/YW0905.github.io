@@ -20,6 +20,7 @@ Recently, I served as a Quantitative Research Intern at [<img src="/images/Lianh
 
 # 🔥 News
 
+* 2024.07: 🎉📄 I completed [<img src="/images/JPMC.png" style="height:1em; vertical-align:middle;">](https://www.jpmorganchase.com/) <span style="color: rgb(114,63,32);">JPMorgan Chase & Co.</span> Quantitative Research Virtual Experience Program on Forage!
 * *2024.06*: 🎉🎓 I completed my studies and graduated from [<img src="/images/SUFE.png" style="height:1em; vertical-align:middle;">](https://www.sufe.edu.cn/) <span style="color: rgb(144, 39, 40);">Shanghai University of Finance and Economics</span>!
 
 # 📖 Educations
