@@ -8,9 +8,9 @@ redirect_from:
 ---
 # About Me
 
-I am currently a graduate student at [<img src="/images/logo-cornell.png" style="height:1em; vertical-align:middle;">](https://www.cornell.edu/), pursuing a M.Eng. in Financial Engineering, and I expect to graduate in December 2025.
+I am currently a graduate student at [<img src="/images/cornell_logo.jpg" style="height:1em; vertical-align:middle;">](https://www.cornell.edu/) <span style="color: rgb(181,20,20);">Cornell University</span>, pursuing a M.Eng. in Financial Engineering, and I expect to graduate in December 2025.
 
-I am now seeking a summer 2025 internship in **quantitative research**, **quantitative trading**, or **quantitative risk analysis**.
+I am now hold an internship offer at [<img src="/images/millennium_logo.jpg" style="height:1em; vertical-align:middle;">](https://www.mlp.com/) <span style="color: rgb(1,78,255);">Millennium</span>, as a quantitative research intern.
 
 I hold a bachelor’s degree in Mathematical Economics from [<img src="/images/SUFE.png" style="height:1em; vertical-align:middle;">](https://www.sufe.edu.cn/) <span style="color: rgb(144, 39, 40);">Shanghai University of Finance and Economics</span>. My academic background is strongly rooted in data science, econometrics, and machine learning.
 
