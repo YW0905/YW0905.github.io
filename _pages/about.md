@@ -19,13 +19,14 @@ My academic background is strongly rooted in data science, econometrics, and mac
 Feel free to contact me if you want a talk!
 
 # 🔥 News
+* *2024.11*: 🎉💼 I get an offer of quantitative research intern at [<img src="/images/millennium_logo.jpg" style="height:1em; vertical-align:middle;">](https://www.mlp.com/) <span style="color: rgb(1,78,255);">Millennium</span>!
 * *2024.08*: 🎒 I start my graduate studies at [<img src="/images/cornell_logo.jpg" style="height:1em; vertical-align:middle;">](https://www.cornell.edu/) <span style="color: rgb(181,20,20);">Cornell University</span>!
 * *2024.07*: 🎉📄 I complete [<img src="/images/JPM.jpg" style="height:1em; vertical-align:middle;">](https://www.jpmorganchase.com/) JPMorgan Chase & Co. Quantitative Research Virtual Experience Program on Forage!
 * *2024.06*: 🎉🎓 I complete my studies and graduated from [<img src="/images/SUFE.png" style="height:1em; vertical-align:middle;">](https://www.sufe.edu.cn/) <span style="color: rgb(144, 39, 40);">Shanghai University of Finance and Economics</span>!
 
 # 📖 Educations
 
-* *2024.08 - 2025.12*, M.Eng. in Financial Engineering, [<img src="/images/logo-cornell.png" style="height:1em; vertical-align:middle;">](https://www.cornell.edu/), Ithaca, NY, US
+* *2024.08 - 2025.12*, M.Eng. in Financial Engineering, [<img src="/images/cornell_logo.jpg" style="height:1em; vertical-align:middle;">](https://www.cornell.edu/) <span style="color: rgb(181,20,20);">Cornell University</span>, Ithaca, NY, US
 * *2020.09 - 2024.06*, B.Ec. in Mathematical Economics, [<img src="/images/SUFE.png" style="height:1em; vertical-align:middle;">](https://www.sufe.edu.cn/) <span style="color: rgb(144, 39, 40);">Shanghai University of Finance and Economics</span>, Shanghai, CN
 * *2017.09 - 2020.06*, Wuhan No.2 High School, Wuhan, CN
 
