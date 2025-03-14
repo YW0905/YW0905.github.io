@@ -23,16 +23,16 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yourui Wang"
-  pronouns         : # example: "she/her"  
-  bio              : "Incoming M.Eng. in Financial Engineering Student @ Cornell University. Looking for 25 summer intern."
-  location         : # "Ithaca, NY"
-  employer         : # "Cornell University"
+  pronouns         : "he/him" 
+  bio              : "M.Eng. in Financial Engineering Student @ Cornell University. Incoming Quantitative Research Intern @ Millennium."
+  location         : "Ithaca, NY"
+  employer         : "Millennium"
   uri              : # URL
   email            : "yw2735@cornell.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=EHQXW8IAAAAJ"
+  googlescholar    : # "https://scholar.google.com.hk/citations?hl=zh-CN&user=EHQXW8IAAAAJ"
   impactstory      : # URL
   orcid            : # URL "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "YW0905"
+  github           : # Username "YW0905"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
