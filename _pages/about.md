@@ -19,8 +19,8 @@ My academic background is strongly rooted in data science, econometrics, and mac
 Feel free to contact me if you want a talk!
 
 # 🔥 News
-
-* 2024.07: 🎉📄 I completed [<img src="/images/JPMClogo.png" style="height:1em; vertical-align:middle;">](https://www.jpmorganchase.com/) Quantitative Research Virtual Experience Program on Forage!
+* *2024.08*: 🎒 I start my graduate studies at [<img src="/images/cornell_logo.jpg" style="height:1em; vertical-align:middle;">](https://www.cornell.edu/) <span style="color: rgb(181,20,20);">Cornell University</span>!
+* *2024.07*: 🎉📄 I completed [<img src="/images/JPMClogo.png" style="height:1em; vertical-align:middle;">](https://www.jpmorganchase.com/) Quantitative Research Virtual Experience Program on Forage!
 * *2024.06*: 🎉🎓 I completed my studies and graduated from [<img src="/images/SUFE.png" style="height:1em; vertical-align:middle;">](https://www.sufe.edu.cn/) <span style="color: rgb(144, 39, 40);">Shanghai University of Finance and Economics</span>!
 
 # 📖 Educations
