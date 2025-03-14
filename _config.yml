@@ -23,10 +23,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yourui Wang"
-  pronouns         : "he/him" 
+  pronouns         : # "he/him" 
   bio              : "M.Eng. in Financial Engineering Student @ Cornell University. Incoming Quantitative Research Intern @ Millennium."
-  location         : "Ithaca, NY"
-  employer         : "Millennium"
+  location         : # "Ithaca, NY"
+  employer         : #"Millennium"
   uri              : # URL
   email            : "yw2735@cornell.edu" 
 
