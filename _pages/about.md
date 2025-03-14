@@ -12,9 +12,9 @@ I am a graduate student at [<img src="/images/cornell_logo.jpg" style="height:1e
 
 I will be a quantitative research intern at [<img src="/images/millennium_logo.jpg" style="height:1em; vertical-align:middle;">](https://www.mlp.com/) <span style="color: rgb(1,78,255);">Millennium</span> in 2025 summer.
 
-I hold a bachelor’s degree in Mathematical Economics from [<img src="/images/SUFE.png" style="height:1em; vertical-align:middle;">](https://www.sufe.edu.cn/) <span style="color: rgb(144, 39, 40);">Shanghai University of Finance and Economics</span>. My academic background is strongly rooted in data science, econometrics, and machine learning.
+I hold a bachelor’s degree in Mathematical Economics from [<img src="/images/SUFE.png" style="height:1em; vertical-align:middle;">](https://www.sufe.edu.cn/) <span style="color: rgb(144, 39, 40);">Shanghai University of Finance and Economics</span>. 
 
-My research interest includes quantitaive finance, factor investment, and machine learning in quantitative investment. I have utilized related methods and models in my past experiences, including internships, research projects, and competitions.
+My academic background is strongly rooted in data science, econometrics, and machine learning. My research interest includes quantitaive finance, factor investment, and machine learning in quantitative investment. I have utilized related methods and models in my past experiences, including internships, research projects, and competitions.
 
 Feel free to contact me if you want a talk!
 
