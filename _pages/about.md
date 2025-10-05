@@ -8,9 +8,12 @@ redirect_from:
 ---
 # About Me
 
+$$E=mc^2$$
+
 I am a graduate student at [<img src="/images/cornell_logo.jpg" style="height:1em; vertical-align:middle;">](https://www.cornell.edu/) <span style="color: rgb(181,20,20);">Cornell University</span>, pursuing a M.Eng. in Financial Engineering, and I expect to graduate in December 2025.
 
 I will be a quantitative research intern at [<img src="/images/millennium_logo.jpg" style="height:1em; vertical-align:middle;">](https://www.mlp.com/) <span style="color: rgb(1,78,255);">Millennium</span> in 2025 summer.
+
 
 I hold a bachelor’s degree in Mathematical Economics from [<img src="/images/SUFE.png" style="height:1em; vertical-align:middle;">](https://www.sufe.edu.cn/) <span style="color: rgb(144, 39, 40);">Shanghai University of Finance and Economics</span>. 
 
