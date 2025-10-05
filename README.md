@@ -4,33 +4,19 @@ title: About
 permalink: /about/
 ---
 
-# About
+## Introduction
 
-## Theme Monos
+This is a website for Quant to prepare online assessments and interviews. I collect knowledges and questions including solutions systematically and share them on this website. All in all, the website will cover several important topics below:
 
-> Simple and lightweight theme for Jekyll
+* Probability
+* Statistics
+* Regression
+* Linear Algebra
+* Machine Learning
+* Portfolio Managment
+* Options
+* Data Science
 
-### Features
-- Responsive.
-- Syntax Highlight
-- Most optimized theme for tech blog.
-- Lightweight with minimum stylesheet.
-- Easy to customize.
-- Offers category menu.
+In each topic, there will be many posts representing either knowledge or question related. 
 
-### _config.yml
-> Code block will look like this.
-```yml
-highlighter-theme: monokai //you can change your syntax color scheme.
-date_format: "%Y-%M-%D" //and date format.
-```
-
-### Screenshots
-#### Page
-![alt text](/public/img/screenshot-1.png)
-#### Articles
-![alt text](/public/img/screenshot-2.png)
-#### Page - Mobile
-![alt text](/public/img/screenshot-m1.png)
-#### Page - Articles
-![alt text](/public/img/screenshot-m2.png)
+Start your journey to Quant and enjoy!
