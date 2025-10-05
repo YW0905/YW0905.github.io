@@ -31,6 +31,7 @@
   --breakpoint-xl: 1200px;
   --font-family-sans-serif: "Roboto", "Nanum Gothic";
   --font-family-serif: "Nanum Myeongjo";
+  --sidebar-width: 220px;
 }
 
 * {
@@ -95,7 +96,8 @@ code {
 	/*position: fixed;*/
 	display: flex;
 	flex-flow: column nowrap;
-	flex: 0 0 220px;
+	flex: 0 0 var(--sidebar-width);
+	width: var(--sidebar-width);
 	padding: 15px;
 	z-index: 1;
 	background-color: #222;
@@ -317,6 +319,7 @@ footer {
 		flex: 0 0 auto;
 		flex-flow: row nowrap;
 		height: auto;
+		width: 100%;
 	}
 
 	.sidebar-nav {
