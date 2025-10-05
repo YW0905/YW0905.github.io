@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 
+# About
+
 ## Theme Monos
+
 > Simple and lightweight theme for Jekyll
 
 ### Features
